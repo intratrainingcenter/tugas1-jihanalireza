@@ -1,0 +1,17 @@
+.header-about{
+	padding: 50px;
+	position: fixed;
+	bottom: -30px;
+	/*text-align: center;*/
+	color: white;
+}
+
+.rows-about{
+	display: grid;
+	grid-template-columns:auto auto; 
+	padding: 10px;
+}
+
+.row-about{
+	margin: 10px;
+}

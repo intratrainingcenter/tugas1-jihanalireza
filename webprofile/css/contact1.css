@@ -1,0 +1,75 @@
+.bg-black {
+  background-color: black;
+  height: 690px;
+}
+
+.header-contact .message .fullname {
+  position: absolute;
+  float: right;
+  left: 1.5%;
+  top: 33%;
+}
+
+.header-contact .message .fullname input {
+  width: 390px;
+}
+
+.header-contact .message .email {
+  position: absolute;
+  float: right;
+  left: 4%;
+  top: 43%;
+}
+
+.header-contact .message .email input {
+  width: 450px;
+}
+
+.header-contact .message .subjek {
+  position: absolute;
+  float: right;
+  left: 2%;
+  top: 53%;
+}
+.header-contact .message .subjek input {
+  width: 500px;
+  height: 115px;
+}
+
+.header-contact button {
+  position: absolute;
+  left: 43.5%;
+  top: 77%;
+}
+
+label {
+  padding-right: 20px;
+}
+
+button {
+  background-color: black;
+  padding: 10px;
+  color: white;
+}
+
+input {
+  padding: 8px;
+  background-color: black;
+  color: white;
+}
+
+.header-contact {
+  color:white;
+  font-weight: bold;
+}
+
+.header-address {
+  position: absolute;
+  left: 50%;
+  top: 25%;
+  border-left: 1px solid white;
+  height: 70%;
+  color:white;
+  background-color: black;
+  padding: 35px 0px 0px 30px;
+}
